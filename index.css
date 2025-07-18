@@ -2,7 +2,9 @@ h1 {
   color: #003049;
   font-family: fantasy;
 }
-
+p {
+  color: #430606;
+}
 body {
   background-color: #e9cd908b;
 }
